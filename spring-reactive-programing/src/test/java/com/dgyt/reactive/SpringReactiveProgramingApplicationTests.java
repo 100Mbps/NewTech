@@ -8,6 +8,7 @@ class SpringReactiveProgramingApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
